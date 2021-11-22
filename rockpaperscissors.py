@@ -1,8 +1,9 @@
 
 """
 This is a simple user input Rock, Paper, Scissors game.
+.upper() is used so that a player can type Rock Paper Scissors in all Capital or lower case or the combination.
 """
-# Welcome Message to The Players
+# Welcome Message for The Players
 print('Hey Players!')
 print('Welcome to Rock,Paper, and Scissors game. The rules are simple choose any' +
       ' between Rock, Paper or Scissor and let the other player to choose.'+'\nPlayers first to make 3 wins count is a Ultimate Winner')
@@ -61,15 +62,7 @@ while True:
         print(choiceA)
         print("Choices made by Player 2 in order:")
         print(choiceB)
-    # elif count2 == 3:
-    #     print("Player2 wins")
-    #     count1 == 0;
-    #     count2 == 0;
-    #     print("Choices made by Player 1 in order:")
-    #     print(choiceA)
-    #     print("Choices made by Player 2 in order:")
-    #     print(choiceB)
-
+ 
 print("Thank you for playing.")
 
 
