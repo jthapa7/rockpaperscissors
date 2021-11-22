@@ -2,7 +2,7 @@
 """
 This is a simple user input Rock, Paper, Scissors game.
 """
-# Welcome Message to The Players
+# Welcome Message for The Players
 print('Hey Players!')
 print('Welcome to Rock,Paper, and Scissors game. The rules are simple choose any' +
       ' between Rock, Paper or Scissor and let the other player to choose.'+'\nPlayers first to make 3 wins count is a Ultimate Winner')
